@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+	font-size: 23px;
+	color: #0D31DB;
+}
+h1, h2{
+	text-align: center;
+	color: #DB0D0D;
+}
+
+
+.t1{
+	border: solid 1px grey;
+}
+th, td{
+	border: solid 1px purple;
+}
+
+.f1{
+	float: right;
+	margin: 10px;
+}
+.f2, .f3{
+	text-align: center;
+}
+ul{
+	list-style: none;
+}
